@@ -84,7 +84,7 @@ Python | C | SQL
 
 ## 📫 Contact
 
-📧 Email: [kanchanatharv614@gmail.com](mailto:kanchanatharv614@gmail.com)
+📧 Email: [kanchanatharvl94@gmail.com](mailto:kanchanatharv614@gmail.com)
 🔗 LinkedIn: https://linkedin.com/in/atharv-kanchan-105ab828a
 
 ---
