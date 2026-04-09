@@ -44,7 +44,7 @@ Currently, I am focused on strengthening my skills in **data visualization, stat
 
 ### 👨‍💻 Programming
 
-Python | Java | SQL
+Python | C | SQL
 
 ### 📊 Data Analytics
 
